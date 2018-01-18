@@ -17,8 +17,10 @@
 	</head>
 	<body>
 		<div class="container-fluid">
-			<a href="#"><img src="images/pic03.jpg" alt="" /></a>
-			<a href="#"><img src="images/pic03.jpg" alt="" /></a>
+			<a href="#"><img src="images/pic07.jpg" alt="" /></a>
+		</div>
+		<div class="container-fluid">
+			<a href="#"><img src="images/pic08.jpg" alt="" /></a>
 		</div>
 		<!-- /.container-fluid -->
 		
